@@ -16,7 +16,7 @@ I'm a first-year Molecular Biology and Genetics student at Uludağ University in
 
 
  ## Connect with Me
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9d8370df-da3f-4ff1-abe1-6f3340f55f4b/dbvyn33-06a1853b-6318-4def-89ee-4e25d3b6103a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzlkODM3MGRmLWRhM2YtNGZmMS1hYmUxLTZmMzM0MGY1NWY0YlwvZGJ2eW4zMy0wNmExODUzYi02MzE4LTRkZWYtODllZS00ZTI1ZDNiNjEwM2EuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7sPwLOxwVdv5h7RQP0t6fa6jU38Heet-NkF4KA5ZLYw" alt="Alt Text" width="100" height="100" align="left" />
+
 🔗 [Linktree](https://linktr.ee/kurayi_chawatama) - Explore my other social media platforms and connect with me!
 
 Feel free to reach out and join me on this exciting expedition into the world of molecular biology, genetics, and bioinformatics! 🚀
