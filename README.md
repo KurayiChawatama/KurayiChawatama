@@ -11,8 +11,7 @@ I'm a first-year Molecular Biology and Genetics student at Uludağ University in
 🔭 I'm currently immersed in a fascinating project titled "Comprehensive Analysis of Promoter Methylation Effects on the GPRC5A Methylation Profile Across Various Cancer Types"(Poster on my ResearchGate).This project allows me to apply my growing skills in bioinformatics to unravel the complexities of cancer through genomic and epigenomic analyses.
 
  ## Learning Journey
-
-🌱 Currently, my learning path involves mastering Python and R to enhance my data analysis capabilities. My goal is to progress into more advanced areas, such as machine learning, as I believe it holds the key to unlocking deeper insights in bioinformatics.
+<img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" alt="Alt Text" width="100" height="100" align="left" />🌱 Currently, my learning path involves mastering Python and R to enhance my data analysis capabilities. My goal is to progress into more advanced areas, such as machine learning, as I believe it holds the key to unlocking deeper insights in bioinformatics.
 
 
  ## Connect with Me
