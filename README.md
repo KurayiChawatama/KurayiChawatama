@@ -2,7 +2,7 @@
 
 I'm a first-year Molecular Biology and Genetics student at Uludağ University in Turkey, and proudly Zimbabwean 🇿🇼. Currently, I'm on a thrilling journey through the world of molecular biology, driven by a passion for exploring the intricate realms of genomics and epigenomics.
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBiNjd2eDJrdW0zbmluamg5b2c3d2lpNjNsbjc2eW9yZzA1d2VuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QPTdQdZQ9UiyzYK9mN/giphy.gif" alt="Alt Text" width="3cm" height="3cm" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBiNjd2eDJrdW0zbmluamg5b2c3d2lpNjNsbjc2eW9yZzA1d2VuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QPTdQdZQ9UiyzYK9mN/giphy.gif" alt="Alt Text" width="400" height="400" />
 
 
 ## About Me
