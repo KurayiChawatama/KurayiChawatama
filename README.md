@@ -12,8 +12,7 @@
 
 
  ## Connect with Me
-
-🔗 [Linktree](https://linktr.ee/kurayi_chawatama) - Explore my other social media platforms and connect with me!
+<img src="https://media.baamboozle.com/uploads/images/660954/1646856631_53263_gif-url.gif" alt="Alt Text" width="100" height="100" align="left" /> 🔗 [Linktree](https://linktr.ee/kurayi_chawatama) - Explore my other social media platforms and connect with me!
 
 Feel free to reach out and join me on this exciting expedition into the world of molecular biology, genetics, and bioinformatics! 🚀
 
