@@ -2,7 +2,7 @@
 
 I'm a first-year Molecular Biology and Genetics student at Uludağ University in Turkey, and proudly Zimbabwean 🇿🇼. Currently, I'm on a thrilling journey through the world of molecular biology, driven by a passion for exploring the intricate realms of genomics and epigenomics.
 
-(img align="righté alt="Coding" width="400" src="<iframe src="https://giphy.com/embed/QPTdQdZQ9UiyzYK9mN" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/CSIRO-transparent-QPTdQdZQ9UiyzYK9mN">via GIPHY</a></p>"
+(img align="righté alt="Coding" width="400" src="https://giphy.com/embed/QPTdQdZQ9UiyzYK9mN"
 ## About Me
 
 🧬 As a Molecular Biology and Genetics undergraduate, I bring a mix of theoretical knowledge and hands-on experience in both wet lab experiments and bioinformatics. My curiosity knows no bounds, and I'm always excited to delve into the latest advancements in the field.
