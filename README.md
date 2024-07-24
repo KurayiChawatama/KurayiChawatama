@@ -10,7 +10,7 @@
 
  ## Current Focus & Projects
  
-<img src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif" alt="Alt Text" width="100" height="100" align="left" /> I'm currently immersed in a fascinating project titled "Comprehensive Analysis of Promoter Methylation Effects on the GPRC5A Methylation Profile Across Various Cancer Types"(Poster on my ResearchGate).This project allows me to apply my growing skills in bioinformatics to unravel the complexities of cancer through genomic and epigenomic analyses.
+<img src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif" alt="Alt Text" width="100" height="100" align="left" /> I'm currently immersed in learning to analyze RNASeq data at [Atakan Ekiz Lab](https://www.atakanekiz.com/lab.html) as well as developing and improving the [ChemNose platform](https://github.com/KurayiChawatama/ChemNose-An-Automated-Gas-Detection-and-Statistical-Analysis-Platform) as the Science team leader for [ULUROVER team](https://www.linkedin.com/company/ulurover-team/posts/?feedView=all).
 
 
  ## Learning Journey
