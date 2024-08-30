@@ -17,6 +17,8 @@
  
 <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" alt="Alt Text" width="100" height="100" align="left" /> Currently, my learning path involves mastering Python and R to enhance my data analysis capabilities and Bash later down the road for automation and managing bioinformatics workflows . My goal is to progress into more advanced areas, such as machine learning, as I believe it holds the key to unlocking deeper insights in bioinformatics.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KurayiChawatama&hide=html&layout=compact)
+
 
  ## Connect with Me
  
