@@ -33,6 +33,9 @@
 <a href="logos/Seurat.png" target="_blank" rel="noreferrer"> 
 <img src="logos/Seurat.png" alt="Seurat" width="40" height="40"/> 
 </a>
+<a href="logos/DESeq2.png" target="_blank" rel="noreferrer"> 
+<img src="logos/DESeq2.png" alt="Seurat" width="40" height="40"/> 
+</a>
 <a href="logos/limma.png" target="_blank" rel="noreferrer"> 
 <img src="logos/limma.png" alt="limma" width="40" height="40"/> 
 </a>
