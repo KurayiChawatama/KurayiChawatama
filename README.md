@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kurayi Chawatama</h1>
 <h3 align="center">Molecular Biology & Genetics Sophomore Student with a Passion for Bioinformatics and Systems Biology</h3>
 
-- **Proudly Zimbabwean 🇿🇼, Studying in Türkiye 🇹🇷**
+- 🌍 **Proudly Zimbabwean 🇿🇼, Studying in Türkiye 🇹🇷**
   
-- 🔭 I’m currently working on **RNASeq data analysis at Atakan Ekiz Lab** and developing the **ChemNose platform** as the Science team leader for the **ULUROVER team**.
+- 🔭 I’m currently working on **analyzing RNASeq data at Atakan Ekiz Lab and improving the ChemNose platform**.
 
 - 🌱 I’m currently learning **Python, R, and Bash for bioinformatics workflows**
 
