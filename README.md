@@ -3,7 +3,7 @@
 
 - 🌍 **Proudly Zimbabwean 🇿🇼, Studying in Türkiye 🇹🇷**
   
-- 🔭 I’m currently working on **analyzing RNASeq data at Atakan Ekiz Lab and improving the ChemNose platform**.
+- 🔭 I’m currently working on **analyzing RNASeq data** at **[Atakan Ekiz Lab](https://www.atakanekiz.com/lab.html)** and **improving the [ChemNose platform](https://github.com/KurayiChawatama/ChemNose-An-Automated-Gas-Detection-and-Statistical-Analysis-Platform)**.
 
 - 🌱 I’m currently learning **Python, R, and Bash for bioinformatics workflows**
 
@@ -11,7 +11,9 @@
 
 - 💬 Ask me about **molecular biology, bioinformatcs, and transcripotmics**
 
-- 📫 How to reach me **[Explore my profiles on Linktree](https://linktr.ee/kurayi_chawatama)**
+- ⚡ Fun Fact: I have a strong interest in robotics (Arduino and Raspberry Pi) and enjoy developing them for biotech applications, inspired by my work at **[Ulurover](https://www.linkedin.com/company/ulurover-team/posts/?feedView=all)**.
+
+- 📫 How to reach me: **[Explore my profiles on Linktree](https://linktr.ee/kurayi_chawatama)**
 
 
 
@@ -31,7 +33,7 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
 <a href="logos/Seurat.png" target="_blank" rel="noreferrer"> 
-<img src="logos/Seurat.png" alt="Seurat" width="40" height="40"/> 
+<img src="logos/Seurat.png" alt="Seurat" width="45" height="40"/> 
 </a>
 <a href="logos/DESeq2.png" target="_blank" rel="noreferrer"> 
 <img src="logos/DESeq2.png" alt="Seurat" width="40" height="40"/> 
