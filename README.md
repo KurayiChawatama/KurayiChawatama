@@ -24,29 +24,29 @@
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/> 
 </a> 
-<a href="/workspaces/KurayiChawatama/logos/Bash.png" target="_blank" rel="noreferrer"> 
-<img src="/workspaces/KurayiChawatama/logos/Bash.png" alt="Bash" width="40" height="40"/> 
+<a href="logos/Bash.png" target="_blank" rel="noreferrer"> 
+<img src="logos/Bash.png" alt="Bash" width="40" height="40"/> 
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
-<a href="/workspaces/KurayiChawatama/logos/Seurat.png" target="_blank" rel="noreferrer"> 
-<img src="/workspaces/KurayiChawatama/logos/Seurat.png" alt="Seurat" width="40" height="40"/> 
+<a href="logos/Seurat.png" target="_blank" rel="noreferrer"> 
+<img src="logos/Seurat.png" alt="Seurat" width="40" height="40"/> 
 </a>
-<a href="/workspaces/KurayiChawatama/logos/limma.png" target="_blank" rel="noreferrer"> 
-<img src="/workspaces/KurayiChawatama/logos/limma.png" alt="limma" width="40" height="40"/> 
+<a href="logos/limma.png" target="_blank" rel="noreferrer"> 
+<img src="logos/limma.png" alt="limma" width="40" height="40"/> 
 </a>
-<a href="/workspaces/KurayiChawatama/logos/edgeR.webp" target="_blank" rel="noreferrer"> 
-<img src="/workspaces/KurayiChawatama/logos/edgeR.webp" alt="edgeR" width="40" height="40"/> 
+<a href="logos/edgeR.webp" target="_blank" rel="noreferrer"> 
+<img src="logos/edgeR.webp" alt="edgeR" width="40" height="40"/> 
 </a>
-<a href="/workspaces/KurayiChawatama/logos/Glimma.png" target="_blank" rel="noreferrer"> 
-<img src="/workspaces/KurayiChawatama/logos/Glimma.png" alt="Glimma" width="40" height="40"/> 
+<a href="logos/Glimma.png" target="_blank" rel="noreferrer"> 
+<img src="logos/Glimma.png" alt="Glimma" width="40" height="40"/> 
 </a>
-<a href="/workspaces/KurayiChawatama/logos/Arduino.png" target="_blank" rel="noreferrer"> 
-<img src="/workspaces/KurayiChawatama/logos/Arduino.png" alt="Arduino" width="40" height="40"/> 
+<a href="logos/Arduino.png" target="_blank" rel="noreferrer"> 
+<img src="logos/Arduino.png" alt="Arduino" width="40" height="40"/> 
 </a>
-<a href="/workspaces/KurayiChawatama/logos/raspberry-pi.svg" target="_blank" rel="noreferrer"> 
-<img src="/workspaces/KurayiChawatama/logos/raspberry-pi.svg" alt="Raspberry-Pi" width="40" height="40"/> 
+<a href="logos/raspberry-pi.svg" target="_blank" rel="noreferrer"> 
+<img src="logos/raspberry-pi.svg" alt="Raspberry-Pi" width="40" height="40"/> 
 </a>
 </p>
 
