@@ -24,19 +24,31 @@
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/> 
 </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-</a> 
+<a href="/workspaces/KurayiChawatama/logos/Bash.png" target="_blank" rel="noreferrer"> 
+<img src="/workspaces/KurayiChawatama/logos/Bash.png" alt="Bash" width="40" height="40"/> 
+</a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+<a href="/workspaces/KurayiChawatama/logos/Seurat.png" target="_blank" rel="noreferrer"> 
+<img src="/workspaces/KurayiChawatama/logos/Seurat.png" alt="Seurat" width="40" height="40"/> 
 </a>
-<a href="https://bioconductor.org/packages/release/bioc/html/DESeq2.html" target="_blank" rel="noreferrer"> 
-<img src="https://img-blog.csdn.net/20230107164140527" alt="DESeq2" width="40" height="40"/> 
+<a href="/workspaces/KurayiChawatama/logos/limma.png" target="_blank" rel="noreferrer"> 
+<img src="/workspaces/KurayiChawatama/logos/limma.png" alt="limma" width="40" height="40"/> 
+</a>
+<a href="/workspaces/KurayiChawatama/logos/edgeR.webp" target="_blank" rel="noreferrer"> 
+<img src="/workspaces/KurayiChawatama/logos/edgeR.webp" alt="edgeR" width="40" height="40"/> 
+</a>
+<a href="/workspaces/KurayiChawatama/logos/Glimma.png" target="_blank" rel="noreferrer"> 
+<img src="/workspaces/KurayiChawatama/logos/Glimma.png" alt="Glimma" width="40" height="40"/> 
+</a>
+<a href="/workspaces/KurayiChawatama/logos/Arduino.png" target="_blank" rel="noreferrer"> 
+<img src="/workspaces/KurayiChawatama/logos/Arduino.png" alt="Arduino" width="40" height="40"/> 
+</a>
+<a href="/workspaces/KurayiChawatama/logos/raspberry-pi.svg" target="_blank" rel="noreferrer"> 
+<img src="/workspaces/KurayiChawatama/logos/raspberry-pi.svg" alt="Raspberry-Pi" width="40" height="40"/> 
 </a>
 </p>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KurayiChawatama&show_icons=true&locale=en&layout=compact" alt="KurayiChawatama" /></p>
+
