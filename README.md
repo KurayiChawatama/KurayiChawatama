@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kurayi Chawatama</h1>
 <h3 align="center">Sophomore Molecular Biology & Genetics Student with a Passion for Bioinformatics and Systems Biology</h3>
 
-- 🌍 **Proudly Zimbabwean 🇿🇼, Studying in Türkiye 🇹🇷**
+- 🌍 **Proudly Zimbabwean  Studying in Türkiye 🇹🇷**
   
 - 🎯 **Experience and Projects:**
   - **Bioinformatics and Wet lab Research in Cancer Biology**: I am currently supporting various bioinformatics and wet lab tasks in Prof. [Berrin Tunca](https://scholar.google.com/citations?user=YUU5CvoAAAAJ&hl=en)'s cancer research lab while leading an extramurally funded project under her guidance titled "Characterizing Tumor Microenvironment Transcriptome Variations in NASH and Viral Hepatocellular Carcinomas for Targeted Therapy"
