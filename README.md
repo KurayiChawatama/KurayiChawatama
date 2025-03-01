@@ -9,7 +9,7 @@
   - **DNA Methylation Data Analysis**: Contributed to the [Comprehensive Analysis of Promoter Methylation Effects on the GPRC5A Methylation Profile Across Various Cancer Types](https://www.researchgate.net/publication/374535049_Comprehensive_Analysis_of_Promoter_Methylation_Effects_on_the_GPRC5A_Methylation_Profile_Across_Various_Cancer_Types), investigating the impact of promoter methylation on cancer-associated gene expression
   - **Development of the [ChemNose Platform](https://github.com/KurayiChawatama/ChemNose-An-Automated-Gas-Detection-and-Statistical-Analysis-Platform)**: Led the development of an **Arduino** and **R** based gas detection and statistical analysis platform for [Ulurover Team](https://www.linkedin.com/company/ulurover-team/posts/?feedView=all)'s competitive **Mars Rover**, integrating real-time data collection and analysis
 
-- 🌱 I’m currently learning **machine learning techniques** to enhance biological data analysis and discover new insights
+- 🌱 I’m currently learning **machine learning techniques** and **nextflow** to enhance my analyses.
 
 - 💬 Ask me about **molecular biology, bioinformatics, and transcriptomics**
 
