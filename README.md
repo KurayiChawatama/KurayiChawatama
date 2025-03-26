@@ -37,6 +37,9 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="72" height="72"/> 
 </a>
+<a href="logos/conda_logo.png" target="_blank" rel="noreferrer"> 
+<img src="logos/conda_logo.png" alt="Conda" width="72" height="72"/> 
+</a>
 <a href="logos/Seurat.png" target="_blank" rel="noreferrer"> 
 <img src="logos/Seurat.png" alt="Seurat" width="81" height="72"/> 
 </a>
