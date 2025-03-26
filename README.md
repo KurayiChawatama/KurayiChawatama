@@ -46,9 +46,6 @@
 <a href="logos/limma.png" target="_blank" rel="noreferrer"> 
 <img src="logos/limma.png" alt="limma" width="72" height="72"/> 
 </a>
-<a href="logos/edgeR.webp" target="_blank" rel="noreferrer"> 
-<img src="logos/edgeR.webp" alt="edgeR" width="72" height="72"/> 
-</a>
 <a href="logos/Arduino.png" target="_blank" rel="noreferrer"> 
 <img src="logos/Arduino.png" alt="Arduino" width="72" height="72"/> 
 </a>
