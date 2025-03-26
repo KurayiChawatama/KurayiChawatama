@@ -54,7 +54,6 @@
 </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KurayiChawatama&show_icons=true&locale=en&layout=compact" alt="KurayiChawatama" /></p>
-
-
-<img src="./profile-summary-card-output/github_dark/3-most-commit-language.svg" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KurayiChawatama&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="KurayiChawatama" />
+</p>
