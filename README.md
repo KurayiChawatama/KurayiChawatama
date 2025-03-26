@@ -31,9 +31,12 @@
 <a href="logos/Bash.png" target="_blank" rel="noreferrer"> 
 <img src="logos/Bash.png" alt="Bash" width="72" height="72"/> 
 </a>
+<a href="logos/nextflow_log.png" target="_blank" rel="noreferrer"> 
+<img src="logos/nextflow_log.png" alt="Nextflow" width="72" height="72"/> 
+</a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="72" height="72"/> 
-</a> 
+</a>
 <a href="logos/Seurat.png" target="_blank" rel="noreferrer"> 
 <img src="logos/Seurat.png" alt="Seurat" width="81" height="72"/> 
 </a>
