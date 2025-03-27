@@ -58,5 +58,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-kurayichawatamas-projects.vercel.app/api/top-langs?username=KurayiChawatama&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true&hide=html,php,javascript,CSS,jupyter%20notebook" alt="KurayiChawatama" />
-</p>
+  <img src="https://github-readme-stats-kurayichawatamas-projects.vercel.app/api?username=KurayiChawatama&layout=compact&theme=tokyonight&count_private=true"
+    alt="KurayiChawatamaStats"
+    height="195px"/>
+</a>
+<a align="center">
+  <img src="https://github-readme-stats-kurayichawatamas-projects.vercel.app/api/top-langs?username=KurayiChawatama&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true&hide=html,php,javascript,CSS,jupyter%20notebook" alt="KurayiChawatama"
+    alt="KurayiChawatamaLangs"
+    height="195px"
+    />
+</a>
