@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-kurayichawatamas-projects.vercel.app/api?username=KurayiChawatama&layout=compact&theme=tokyonight&count_private=true"
+  <img src="https://github-readme-stats-kurayichawatamas-projects.vercel.app/api?username=KurayiChawatama&layout=compact&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true"
     alt="KurayiChawatamaStats"
     height="195px"/>
 </a>
