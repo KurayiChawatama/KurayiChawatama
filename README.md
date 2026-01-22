@@ -42,14 +42,8 @@
 <a href="logos/conda_logo.png" target="_blank" rel="noreferrer"> 
 <img src="logos/conda_logo.png" alt="Conda" width="72" height="72"/> 
 </a>
-<a href="logos/Seurat.png" target="_blank" rel="noreferrer"> 
-<img src="logos/Seurat.png" alt="Seurat" width="81" height="72"/> 
-</a>
-<a href="logos/DESeq2.png" target="_blank" rel="noreferrer"> 
-<img src="logos/DESeq2.png" alt="DESeq2" width="72" height="72"/> 
-</a>
-<a href="logos/limma.png" target="_blank" rel="noreferrer"> 
-<img src="logos/limma.png" alt="limma" width="72" height="72"/> 
+<a href="logos/docker_logo.png" target="_blank" rel="noreferrer"> 
+<img src="logos/docker_logo.png" alt="Docker" width="72" height="72"/> 
 </a>
 <a href="logos/Arduino.png" target="_blank" rel="noreferrer"> 
 <img src="logos/Arduino.png" alt="Arduino" width="72" height="72"/> 
