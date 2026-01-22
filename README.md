@@ -45,6 +45,9 @@
 <a href="logos/docker_logo.png" target="_blank" rel="noreferrer"> 
 <img src="logos/docker_logo.png" alt="Docker" width="72" height="72"/> 
 </a>
+<a href="logos/slurm_logo.png" target="_blank" rel="noreferrer"> 
+<img src="logos/slurm_logo.png" alt="Slurm" width="72" height="72"/> 
+</a>
 <a href="logos/Arduino.png" target="_blank" rel="noreferrer"> 
 <img src="logos/Arduino.png" alt="Arduino" width="72" height="72"/> 
 </a>
