@@ -20,41 +20,10 @@
 
 - ✉️ How to reach me: [Explore my profiles on Linktree](https://linktr.ee/kurayi_chawatama)
 
-
-
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="72" height="72"/> 
-</a> 
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="72" height="72"/> 
-</a> 
-<a href="logos/Bash.png" target="_blank" rel="noreferrer"> 
-<img src="logos/Bash.png" alt="Bash" width="72" height="72"/> 
-</a>
-<a href="logos/nextflow_log.png" target="_blank" rel="noreferrer"> 
-<img src="logos/nextflow_log.png" alt="Nextflow" width="72" height="72"/> 
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="72" height="72"/> 
-</a>
-<a href="logos/conda_logo.png" target="_blank" rel="noreferrer"> 
-<img src="logos/conda_logo.png" alt="Conda" width="72" height="72"/> 
-</a>
-<a href="logos/docker_logo.png" target="_blank" rel="noreferrer"> 
-<img src="logos/docker_logo.png" alt="Docker" width="72" height="72"/> 
-</a>
-<a href="logos/slurm_logo.png" target="_blank" rel="noreferrer"> 
-<img src="logos/slurm_logo.png" alt="Slurm" width="72" height="72"/> 
-</a>
-<a href="logos/Arduino.png" target="_blank" rel="noreferrer"> 
-<img src="logos/Arduino.png" alt="Arduino" width="72" height="72"/> 
-</a>
-<a href="logos/raspberry-pi.svg" target="_blank" rel="noreferrer"> 
-<img src="logos/raspberry-pi.svg" alt="Raspberry-Pi" width="72" height="72"/> 
-</a>
+
+<p align="left">
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/></a><a href="https://www.r-project.org/"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="60"/></a><a href="#"><img src="logos/Bash.png" width="60"/></a><a href="#"><img src="logos/nextflow_log.png" width="60"/></a><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60"/></a><a href="#"><img src="logos/conda_logo.png" width="60"/></a><a href="#"><img src="logos/docker_logo.png" width="60"/></a><a href="#"><img src="logos/slurm_logo.png" width="60"/></a><a href="#"><img src="logos/Arduino.png" width="60"/></a><a href="#"><img src="logos/raspberry-pi.svg" width="60"/></a>
 </p>
 
 <p align="center">
