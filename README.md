@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kurayi Chawatama</h1>
-<h3 align="center">Sophomore Molecular Biology & Genetics Student with a Passion for Bioinformatics and Systems Biology</h3>
+<h3 align="center">Junior Year Molecular Biology & Genetics Student with a Passion for Bioinformatics and Systems Biology</h3>
 
 - 🌍 **Proudly Zimbabwean 🇿🇼, Studying in Türkiye 🇹🇷**
   
