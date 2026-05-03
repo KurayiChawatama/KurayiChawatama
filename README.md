@@ -18,7 +18,7 @@
 
 - ⚡ Fun Fact: I have a strong interest in robotics (Arduino and Raspberry Pi) and enjoy developing them for biotech applications, inspired by my work leading the Science Team of [Ulurover Team](https://www.linkedin.com/company/ulurover-team/posts/?feedView=all)'s competitive **Mars Rover**
 
-- ✉️ How to reach me: [Explore my profiles on Linktree](https://linktr.ee/kurayi_chawatama)
+- ✉️ How to reach me: [Explore my profiles on my website](https://kurayi-chawatama.github.io/)
 
 <h3 align="left">Languages and Tools:</h3>
 
