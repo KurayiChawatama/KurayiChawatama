@@ -32,7 +32,7 @@
     height="180px"/>
 </a>
 <a align="center">
-  <img src="https://github-readme-stats-kurayichawatamas-projects.vercel.app/api/top-langs?username=KurayiChawatama&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true&hide=html,php,javascript,CSS,rebol,jupyter%20notebook" alt="KurayiChawatama"
+  <img src="https://github-readme-stats-kurayichawatamas-projects.vercel.app/api/top-langs?username=KurayiChawatama&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true&hide=html,php,javascript,CSS,rebol,jupyter%20notebook,SCSS" alt="KurayiChawatama"
     alt="KurayiChawatamaLangs"
     height="180px"
     />
